@@ -1,2 +1,2 @@
-# Git-Tower
+# Tutsplus
 GitHub 2 The company.
